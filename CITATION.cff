@@ -1,0 +1,51 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Code used for generating graph in my master thesis titled
+  'Pressure in the proton from dispersion relations' 
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mislav
+    family-names: Širac
+    email: mislav.sirac2@gmail.com
+    affiliation: >-
+      Prirodoslovno-matematički fakultet Sveučilista u
+      Zagrebu
+repository-code: >-
+  https://github.com/destrozrome/Master-thesis/blob/main/Diplomski.ipynb
+abstract: >-
+  The mechanical properties of the proton include the
+  distribution of mass, spin, pressure, and shear forces
+  within the proton. The main topic of this paper is the
+  pressure distribution in the proton. The pressure is
+  obtained by numerical integration of functions that are
+  fitted to the experimental data of Compton form factors
+  (CFFs) obtained from the deeply virtual Compton scattering
+  (DVCS) experiment. The fitted functions are taken as
+  pre-existing, and two different fitting methods are
+  considered: the KM15 model and the C15-2 neural network.
+  The paper also provides a theoretical overview of the
+  concepts necessary for obtaining the pressure
+  distribution, such as elastic and inelastic scattering of
+  electrons and protons, deeply virtual Compton scattering,
+  the energy-momentum tensor, etc. A theoretical overview of
+  numerical integration methods is also given, and the
+  methods used are described. The results are compared with
+  each other and with theoretical expectations.
+keywords:
+  - gravitational form factors
+  - pressure distribution in the proton
+  - mechanical properties of the proton
+  - deeply virtual Compton scattering
+  - Compton form factors
+  - neural networks
+  - C15-2
+  - KM15
+  - energy-momentum tensor
+  - electromagnetic form factors
+date-released: '2025-09-11'
